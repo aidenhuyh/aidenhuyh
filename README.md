@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🔭 I’m study at Ton Duc Thang University <br>
+🔭 I’m student <br>
 🌱 I’m currently learning SQL <br>
 👯 I’m looking to collaborate on Machine and Deep Learning <br>
 💬 Ask me about Machine Learning, Deep Learning and NLP <br>
