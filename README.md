@@ -12,9 +12,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanhhuynh.work@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC300?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/edenhuyh)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC300?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/edenehuyh)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edenehuyh/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chanhhuynh/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edenehuyh/)
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
