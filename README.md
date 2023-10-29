@@ -12,9 +12,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanhhuynh.work@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC300?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/edenehuyh)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/edenehuyh/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edenehuyh/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC300?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/eidenhuyh)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eidenhuyh/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eidenhuyh/)
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -57,32 +57,32 @@
 ### 📌 Pinned
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<a href="https://github.com/edenehuyh/Flowers-Classification/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edenehuyh&repo=Flowers-Classification&theme=dracula" />
+<a href="https://github.com/eidenhuyh/Flowers-Classification/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eidenhuyh&repo=Flowers-Classification&theme=dracula" />
 </a>    
-<a href="https://github.com/edenehuyh/predict-the-number-of-positive-cases-with-covid-19.git">
+<a href="https://github.com/eidenhuyh/predict-the-number-of-positive-cases-with-covid-19.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edenehuyh&repo=predict-the-number-of-positive-cases-with-covid-19&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=predict-the-number-of-positive-cases-with-covid-19&theme=onedark" />
 </a>
-<a href="https://github.com/edenehuyh/research-cnn-and-resnet.git">
+<a href="https://github.com/eidenhuyh/research-cnn-and-resnet.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edenehuyh&repo=research-cnn-and-resnet&theme=cobalt" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=research-cnn-and-resnet&theme=cobalt" />
 </a>    
-<a href="https://github.com/edenehuyh/Image-Captioning.git">
+<a href="https://github.com/eidenhuyh/Image-Captioning.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edenehuyh&repo=Image-Captioning&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=Image-Captioning&theme=synthwave" />
 </a>
-<a href="https://github.com/edenehuyh/RostaMusic.git">
+<a href="https://github.com/eidenhuyh/RostaMusic.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edenehuyh&repo=RostaMusic&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=RostaMusic&theme=radical" />
 </a>    
-<a href="https://github.com/edenehuyh/WebSitePharmacy-CN.NET.git">
+<a href="https://github.com/eidenhuyh/WebSitePharmacy-CN.NET.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=edenehuyh&repo=WebSitePharmacy-CN.NET&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=WebSitePharmacy-CN.NET&theme=merko" />
 </a>
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[<img src="https://github-readme-stats.vercel.app/api?username=edenehuyh&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=edenehuyh)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edenehuyh&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=edenehuyh)
+[<img src="https://github-readme-stats.vercel.app/api?username=eidenhuyh&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=eidenhuyh)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidenhuyh&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=eidenhuyh)
