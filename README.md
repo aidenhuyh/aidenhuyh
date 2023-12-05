@@ -5,7 +5,7 @@
 🔭 I’m student <br>
 🌱 I’m currently learning SQL <br>
 👯 I’m looking to collaborate on Machine and Deep Learning <br>
-💬 Ask me about Machine Learning, Deep Learning and NLP <br>
+💬 Ask me about Machine Learning, Deep Learning and CV <br>
 😄 I'm always open to new opportunities
 
 ### 📫 How to reach me: 
@@ -80,9 +80,3 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=WebSitePharmacy-CN.NET&theme=merko" />
 </a>
-
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> GitHub Stats
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-[<img src="https://github-readme-stats.vercel.app/api?username=eidenhuyh&show_icons=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true" height="175">](https://github-readme-stats.vercel.app/api?username=eidenhuyh)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eidenhuyh&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" height="175">](https://github-readme-stats.vercel.app/api/top-langs/?username=eidenhuyh)
