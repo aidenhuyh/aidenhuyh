@@ -1,20 +1,13 @@
 ### 👋 Hi there, I'm Eiden Huyh 🌥️
+[![linkedin Badge](https://img.shields.io/badge/eiden--huynh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/eidenhuynh)](https://www.linkedin.com/in/eidenhuynh)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-🔭 I’m student <br>
-🌱 I’m currently learning SQL <br>
-👯 I’m looking to collaborate on Machine and Deep Learning <br>
-💬 Ask me about Machine Learning, Deep Learning and CV <br>
-😄 I'm always open to new opportunities
+I'm Eiden Huyh. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in GoLang, Python and Javascipt (mostly React), but am always willing to learn new languages.
 
-### 📫 How to reach me: 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chanhhuynh.work@gmail.com)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFC300?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/eidenhuyh)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eidenhuyh/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eidenhuyh/)
+- 😁 Pronouns: He/Him
+- 📚 BSc in Software Engineer
 
 ### 🛠 Languages and Tools
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -23,16 +16,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"   
@@ -43,14 +26,6 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;"   
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg">
-<img align="left" alt="Java" width="30px" style="padding-right:10px;"   
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <br>
 <br>
 
