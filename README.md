@@ -28,30 +28,3 @@ I'm Eiden Huyh. I like to code stuff that makes people's lives (including myself
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 <br>
 <br>
-
-### 📌 Pinned
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<a href="https://github.com/eidenhuynh/Flowers-Classification/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eidenhuyh&repo=Flowers-Classification&theme=dracula" />
-</a>    
-<a href="https://github.com/eidenhuynh/predict-the-number-of-positive-cases-with-covid-19.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=predict-the-number-of-positive-cases-with-covid-19&theme=onedark" />
-</a>
-<a href="https://github.com/eidenhuynh/research-cnn-and-resnet.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=research-cnn-and-resnet&theme=cobalt" />
-</a>    
-<a href="https://github.com/eidenhuynh/Image-Captioning.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=Image-Captioning&theme=synthwave" />
-</a>
-<a href="https://github.com/eidenhuynh/RostaMusic.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=RostaMusic&theme=radical" />
-</a>    
-<a href="https://github.com/eidenhuynh/WebSitePharmacy-CN.NET.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eidenhuyh&repo=WebSitePharmacy-CN.NET&theme=merko" />
-</a>
