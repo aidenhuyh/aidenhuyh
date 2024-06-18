@@ -3,7 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm Eiden Huyh. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in GoLang, Python and Javascipt (mostly React), but am always willing to learn new languages.
+I'm Eiden Huyh. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in Python, Java and Javascipt (mostly React), but am always willing to learn new languages.
 
 
 - 😁 Pronouns: He/Him
