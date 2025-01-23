@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Eiden Huynh 🌥️
+### 👋 Hi there, I'm Aiden Huyh 🌥️
 [![linkedin Badge](https://img.shields.io/badge/aiden--huyh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/aidenhuyh)](https://www.linkedin.com/in/aidenhuyh)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
