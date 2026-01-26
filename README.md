@@ -1,10 +1,10 @@
-### 👋 Hi there, I'm Aiden Huyh 🌥️
+### 👋 Hi there, I'm Aiden Huynh 🌥️
 [![linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidenhuyh)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-I'm Aiden Huyh. I like to code stuff that makes people's lives (including myself!) easier. I mainly code in Python, searching ML & DL framework, but am always willing to learn new languages.
-
+I like to code stuff that makes people's lives (including myself!) easier. 
+I mainly code in Python, searching ML & DL framework, but am always willing to learn new languages.
 
 - 😁 Pronouns: He/Him
 - 📚 BSc in Software Engineer
